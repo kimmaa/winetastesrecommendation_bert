@@ -6,6 +6,9 @@ BERT를 사용한 와인취향 text 분석 추천 시스템
 
 본 프로젝트는 colab으로 작성하였습니다. 
 
+사용데이터: WineEnthusiast 의 1,300,000건의 와인 설명 및 리뷰 데이터
+https://drive.google.com/file/d/1HnvXx6UGPra8wI3B3_HdjEiCZCttPtab/view?usp=sharing
+
 이용한 모델:  19년 6월 1일 업데이트된 Bert-base language model
 - [BERT-Large, Uncased (Whole Word Masking)](https://storage.googleapis.com/bert_models/2019_05_30/wwm_uncased_L-24_H-1024_A-16.zip)
   : 24-layer, 1024-hidden, 16-heads, 340M parameters
